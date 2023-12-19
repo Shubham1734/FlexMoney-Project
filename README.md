@@ -42,6 +42,7 @@ type User = {
 
 # ER Diagram
 ![image (4)](https://github.com/Shubham1734/project3/assets/93915712/d7c48b11-efe5-4ecb-a85e-dfd92ac917c9)\
+We assume additional entities, such as payment and batch, as per the question. However, we don't need to implement payment, so we will ignore it.
 
 # Demo
 https://front-lr57.onrender.com
