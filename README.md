@@ -66,11 +66,12 @@ https://front-lr57.onrender.com
 
 # Assumptions
 - A fixed monthly fee of 500 Rs INR for Yoga Classes.
-- After registration, users will receive their user ID and password. The dashboard will display information about the end date of their membership.
+
 
 # Future improvements
 - Explore additional payment gateways for user convenience.
 - Enhance form validation and error handling.
 - Implement user authentication for a more personalized user experience.
 - Introduce a notification system to send confirmation emails or SMS to users upon successful enrollment and payment.
-- Create an admin dashboard to manage user enrollments, view payment statuses, and generate reports. 
+- Create an admin dashboard to manage user enrollments, view payment statuses, and generate reports.
+- After registration, users will receive their user ID and password. The dashboard will display information about the end date of their membership.
