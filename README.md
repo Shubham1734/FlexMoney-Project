@@ -23,7 +23,7 @@ This project is a web application for managing admission to Yoga Classes on a mo
 
 - Generate Receipt
     - Date
-    - invoice number
+    - Invoice number
     - Customer Name
     - Age
     - Batch 
