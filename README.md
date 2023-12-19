@@ -66,6 +66,7 @@ https://front-lr57.onrender.com
 
 # Assumptions
 - A fixed monthly fee of 500 Rs INR for Yoga Classes.
+- After registration, users will receive their user ID and password. The dashboard will display information about the end date of their membership.
 
 # Future improvements
 - Explore additional payment gateways for user convenience.
