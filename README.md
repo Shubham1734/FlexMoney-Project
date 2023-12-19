@@ -46,6 +46,8 @@ We assume additional entities, such as payment and batch, as per the question. H
 
 # Demo
 https://front-lr57.onrender.com
+<br/>
+Note: If the link is not working, please wait for some time as it may take a moment to load.
 ## Screenshots
 ![Screenshot (1066)](https://github.com/Shubham1734/project3/assets/93915712/bef30415-fcfa-46f8-af2d-fa26d5014949)
 
